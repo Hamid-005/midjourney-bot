@@ -1,6 +1,6 @@
 {
-    "TOKEN": "YOUR TOKEN",
-    "API": "YOUR REPLICATE API KEY",
-    "CLIENTID": "YOUR BOT ID",
-    "OWNER": ["YOUR ID"]
+    "TOKEN": "Hamid",
+    "API": "r8_GZBduiRpne5XelgPDZHo61OWeCTPetE4D3kBT",
+    "CLIENTID": "hamid-005",
+    "OWNER": ["sandarutharuneth"]
 }
